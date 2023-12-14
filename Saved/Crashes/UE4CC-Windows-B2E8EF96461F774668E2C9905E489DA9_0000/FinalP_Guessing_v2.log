@@ -1,0 +1,1147 @@
+﻿Log file open, 12/14/23 00:33:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FinalP_Guessing_v2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.262348
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Engine.ini]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Engine.ini]
+[2023.12.14-06.33.11:224][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Engine.ini]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Engine.ini]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.12.14-06.33.11:224][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Engine.ini]
+[2023.12.14-06.33.11:224][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Engine.ini]
+[2023.12.14-06.33.11:233][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.12.14-06.33.11:233][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.12.14-06.33.11:234][  0]LogInit: Selected Device Profile: [Windows]
+[2023.12.14-06.33.11:234][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.12.14-06.33.11:234][  0]LogHAL: Display: Platform has ~ 12 GB [12839247872 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.12.14-06.33.11:234][  0]LogInit: Going up to parent DeviceProfile []
+[2023.12.14-06.33.11:234][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.12.14-06.33.11:234][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.12.14-06.33.11:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Scalability.ini]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.12.14-06.33.11:236][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Engine.ini]
+[2023.12.14-06.33.11:236][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Config/Windows/Editor.ini]
+[2023.12.14-06.33.11:236][  0]LogInit: Computer: DESKTOP-3RGIRB9
+[2023.12.14-06.33.11:236][  0]LogInit: User: Delaina
+[2023.12.14-06.33.11:236][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.12.14-06.33.11:236][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.12.14-06.33.11:236][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2023.12.14-06.33.11:236][  0]LogMemory: Platform Memory Stats for Windows
+[2023.12.14-06.33.11:236][  0]LogMemory: Process Physical Memory: 138.34 MB used, 138.35 MB peak
+[2023.12.14-06.33.11:236][  0]LogMemory: Process Virtual Memory: 110.13 MB used, 110.13 MB peak
+[2023.12.14-06.33.11:236][  0]LogMemory: Physical Memory: 6013.92 MB used,  6230.54 MB free, 12244.46 MB total
+[2023.12.14-06.33.11:236][  0]LogMemory: Virtual Memory: 134206976.00 MB used,  10752.75 MB free, 134217728.00 MB total
+[2023.12.14-06.33.11:241][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.12.14-06.33.11:266][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.12.14-06.33.11:267][  0]LogInit: Using OS detected language (en-US).
+[2023.12.14-06.33.11:267][  0]LogInit: Using OS detected locale (en-US).
+[2023.12.14-06.33.11:271][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.12.14-06.33.11:523][  0]LogInit: Setting process to per monitor DPI aware
+[2023.12.14-06.33.11:535][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.12.14-06.33.11:550][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.12.14-06.33.11:550][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.12.14-06.33.11:695][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.12.14-06.33.11:698][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.12.14-06.33.11:698][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.12.14-06.33.11:698][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.12.14-06.33.11:698][  0]LogD3D11RHI: D3D11 adapters:
+[2023.12.14-06.33.11:863][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2023.12.14-06.33.11:863][  0]LogD3D11RHI:       2979/0/6122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.12.14-06.33.11:865][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.12.14-06.33.11:865][  0]LogD3D11RHI:       0/0/6122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.12.14-06.33.11:865][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.12.14-06.33.11:865][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 3GB
+[2023.12.14-06.33.11:866][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.12.14-06.33.11:866][  0]LogD3D11RHI:     DeviceId    : 1c02
+[2023.12.14-06.33.11:866][  0]LogD3D11RHI:     SubSysId    : 61623842
+[2023.12.14-06.33.11:866][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.12.14-06.33.11:866][  0]LogD3D11RHI:     DedicatedVideoMemory : 3123707904 bytes
+[2023.12.14-06.33.11:866][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.12.14-06.33.11:866][  0]LogD3D11RHI:     SharedSystemMemory : 6419623936 bytes
+[2023.12.14-06.33.11:866][  0]LogD3D11RHI:     AdapterLuid : 0 59805
+[2023.12.14-06.33.11:872][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.12.14-06.33.11:872][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2023.12.14-06.33.11:872][  0]LogWindows: EnumDisplayDevices:
+[2023.12.14-06.33.11:872][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2023.12.14-06.33.11:872][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2023.12.14-06.33.11:873][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2023.12.14-06.33.11:873][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2023.12.14-06.33.11:873][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:   Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:      Driver Date: 6-8-2023
+[2023.12.14-06.33.11:873][  0]LogRHI: Texture pool is 2085 MB (70% of 2979 MB)
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 3GB
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:     DeviceId    : 1c02
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:     SubSysId    : 61623842
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:     DedicatedVideoMemory : 3123707904 bytes
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:     SharedSystemMemory : 6419623936 bytes
+[2023.12.14-06.33.11:873][  0]LogD3D11RHI:     AdapterLuid : 0 59805
+[2023.12.14-06.33.11:998][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.12.14-06.33.11:998][  0]LogD3D11RHI: Async texture creation enabled
+[2023.12.14-06.33.11:998][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.12.14-06.33.12:021][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.12.14-06.33.12:076][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.12.14-06.33.12:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.12.14-06.33.12:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.12.14-06.33.12:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.12.14-06.33.12:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.12.14-06.33.12:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.12.14-06.33.12:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.12.14-06.33.12:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.12.14-06.33.12:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.12.14-06.33.12:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.12.14-06.33.12:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.12.14-06.33.12:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.12.14-06.33.12:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.12.14-06.33.12:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.12.14-06.33.12:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.12.14-06.33.12:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.12.14-06.33.12:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.12.14-06.33.12:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.12.14-06.33.12:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.12.14-06.33.12:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.12.14-06.33.12:521][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.12.14-06.33.12:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.12.14-06.33.12:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.12.14-06.33.12:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.12.14-06.33.12:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.12.14-06.33.12:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.12.14-06.33.12:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.12.14-06.33.12:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.12.14-06.33.12:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.12.14-06.33.12:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.12.14-06.33.12:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.12.14-06.33.12:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.12.14-06.33.12:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.12.14-06.33.12:607][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.12.14-06.33.12:618][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.12.14-06.33.12:656][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.12.14-06.33.12:697][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.12.14-06.33.12:697][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Intermediate/Shaders/WorkingDirectory/19668/).
+[2023.12.14-06.33.12:697][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Delaina/AppData/Local/Temp/UnrealShaderWorkingDir/7F81E89548083D96DA0029B065CA0390/'.
+[2023.12.14-06.33.12:698][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.12.14-06.33.12:698][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.12.14-06.33.12:698][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.12.14-06.33.13:618][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.12.14-06.33.13:689][  0]LogDerivedDataCache: Loaded boot cache 0.07s 99MB C:/Users/Delaina/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.12.14-06.33.13:689][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Delaina/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.12.14-06.33.13:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.12.14-06.33.13:690][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.12.14-06.33.13:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.14-06.33.13:690][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.12.14-06.33.13:712][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.12.14-06.33.13:712][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.14-06.33.13:713][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.12.14-06.33.14:565][  0]LogDerivedDataCache: Speed tests for C:/Users/Delaina/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.85 seconds
+[2023.12.14-06.33.14:565][  0]LogDerivedDataCache: Display: Performance to C:/Users/Delaina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=1135.70MBs, RandomWriteSpeed=1.09MBs. Assigned SpeedClass 'Local'
+[2023.12.14-06.33.14:566][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Delaina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.12.14-06.33.14:566][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.12.14-06.33.14:566][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.12.14-06.33.14:630][  0]LogSlate: Using FreeType 2.10.0
+[2023.12.14-06.33.14:630][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.12.14-06.33.14:661][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2023.12.14-06.33.14:944][  0]LogInit: Selected Device Profile: [Windows]
+[2023.12.14-06.33.14:944][  0]LogInit: Active device profile: [0000016EDC415100][0000016EDA0A4340 49] Windows
+[2023.12.14-06.33.14:944][  0]LogInit: Profiles: [0000016EDC415100][0000016EDA0A4340 49] Windows, [0000016EDC40A700][0000016EDA0AC4C0 49] WindowsNoEditor, [0000016EDC416200][0000016EDA0B0640 49] WindowsServer, [0000016EDC409900][0000016EDA0B47C0 49] WindowsClient, [0000016EDC415700][0000016EDA0B8940 49] IOS, [0000016EDC40A900][0000016ECDABAAC0 49] iPadAir, [0000016EDC417C00][0000016EDA0A8C00 49] iPadAir2, [0000016EDC3B9400][0000016ECDAC2E40 49] IPadPro, [0000016EDC3B9500][0000016ECDABEE80 49] iPadAir3, [0000016EDC40BA00][0000016ECDAC6FC0 49] iPadAir4, [0000016EDC3BA300][0000016ECDACF140 49] iPadMini2, [0000016EDC40B100][0000016EDA2D92C0 49] iPadMini3, [0000016EDC3BAF00][0000016EDA2DD440 49] iPadMini4, [0000016EDC409E00][0000016EDA2E15C0 49] iPadMini5, [0000016EDC3D1000][0000016EDA2E9880 49] iPhone6, [0000016EDC3D1100][0000016EDA2E58C0 49] iPodTouch6, [0000016EDC417900][0000016EDA2F1B80 49] iPhone7, [0000016EDC416900][0000016EDA2EDBC0 49] iPodTouch7, [0000016EDC3B9000][0000016EDA2F41C0 49] iPhone5S, [0000016EDC416F00][0000016EDA2F8340 49] iPhone6Plus, [0000016EDC3BB600][0000016EDA2FC4C0 49] iPhone6S, [0000016EDC414C00][0000016EDA300640 49] iPhone6SPlus, [0000016EDC415D00][0000016EDA3047C0 49] iPhone7Plus, [0000016EDC3D0800][0000016EDA308940 49] iPhoneSE, [0000016EDC414400][0000016EDA30CAC0 49] iPhone8, [0000016EDC3D0900][0000016EDA310C40 49] iPhone8Plus, [0000016EDC3D2E00][0000016ECDACAD80 49] iPhoneX, [0000016EDC3B9D00][0000016EDA314EC0 49] iPhoneXS, [0000016EDC3D2700][0000016EDA319000 49] iPhoneXSMax, [0000016EDC3B9C00][0000016EDA31D140 49] iPhoneXR, [0000016EDC3D2800][0000016EDA3252C0 49] iPhone11, [0000016EDC3B8F00][0000016EDA329440 49] iPhone11Pro, [0000016EDC3D0B00][0000016EDA32D5C0 49] iPhone11ProMax, [0000016EDC3B8D00][0000016EDA6C7740 49] iPhoneSE2, [0000016EDC3D0E00][0000016EDA6CB8C0 49] iPhone12Mini, [0000016EDC417800][0000016EDA6CFA40 49] iPhone12, [0000016EDC3D3000][0000016EDA6D3BC0 49] iPhone12Pro, [0000016EDC417700][0000016EDA6D61C0 49] iPhone12ProMax, [0000016EDC3D1E00][0000016EDA6DA340 49] iPadPro105, [0000016EDC415300][0000016EDA6DE4C0 49] iPadPro129, [0000016EDC3D3E00][0000016EDA6E2640 49] iPadPro97, [0000016EDC415C00][0000016EDA6E67C0 49] iPadPro2_129, [0000016EDC3D2000][0000016EDA6EA940 49] iPad5, [0000016EDC416300][0000016EDA6EEAC0 49] iPad6, [0000016EDC3D3B00][0000016EDA6F2C40 49] iPad7, [0000016EDC415E00][0000016EDA6F6DC0 49] iPad8, [0000016EDC3D0A00][0000016EDA6FAF40 49] iPadPro11, [0000016EDC416600][0000016EDA321080 49] iPadPro2_11, [0000016EDC3D0F00][0000016EDA6FF1C0 49] iPadPro3_129, [0000016EDC416800][0000016EDA703300 49] iPadPro4_129, [0000016EDC3D3C00][0000016EDA70B480 49] AppleTV, [0000016EDC415A00][0000016EDA70F600 49] AppleTV4K, [0000016EDC3D2600][0000016EDA713780 49] TVOS, [0000016EDC416100][0000016EDA717900 49] Mac, [0000016EDC3D2F00][0000016EDA71BA80 49] MacClient, [0000016EDC416A00][0000016EDA71FC00 49] MacNoEditor, [0000016EDC3D2C00][0000016EDA722200 49] MacServer, [0000016EDC417000][0000016EDA726380 49] Linux, [0000016EDC3D0400][0000016EDA72A500 49] LinuxAArch64, [0000016EDC414700][0000016EDA72E680 49] LinuxNoEditor, [0000016EDC3D3700][0000016EDA732800 49] LinuxAArch64NoEditor, [0000016EDC417B00][0000016EDA736980 49] LinuxClient, [0000016EDC3D3400][0000016EDA73AB00 49] LinuxAArch64Client, [0000016EDC417E00][0000016EDC750C80 49] LinuxServer, [0000016EDC3D0700][0000016EDC754E00 49] LinuxAArch64Server, [0000016EDC415F00][0000016EDC758F80 49] Android, [0000016EDC3D2A00][0000016EDC75D100 49] Android_Low, [0000016EDC416D00][0000016EDA707240 49] Android_Mid, [0000016EDC3D1F00][0000016EDA125380 49] Android_High, [0000016EDC416B00][0000016EDA1294C0 49] Android_Default, [0000016EDC3D0100][0000016EDA157640 49] Android_Adreno4xx, [0000016EDC414500][0000016EDA15F7C0 49] Android_Adreno5xx_Low, [0000016EDC3D1400][0000016EDA18F940 49] Android_Adreno5xx, [0000016EDC417400][0000016EDA193AC0 49] Android_Adreno6xx, [0000016EDC3D2300][0000016EDA1960C0 49] Android_Adreno6xx_Vulkan, [0000016EDC417D00][0000016ECDA2E240 49] Android_Mali_T6xx, [0000016EDC3D0200][0000016ECDA323C0 49] Android_Mali_T7xx, [0000016EDC417600][0000016ECDA56540 49] Android_Mali_T8xx, [0000016EDC3D3200][0000016EDCB286C0 49] Android_Mali_G71, [0000016EDC3BB100][0000016EDCB2C840 49] Android_Mali_G72, [0000016EDC40AF00][0000016EDCB309C0 49] Android_Mali_G72_Vulkan, [0000016EDC3BAB00][0000016EDCB34B40 49] Android_Mali_G76, [0000016EDC408500][0000016EDCB38CC0 49] Android_Mali_G76_Vulkan, [0000016EDC3B8C00][0000016EDA2CEE40 49] Android_Mali_G77, [0000016EDC408600][0000016EDA2D2FC0 49] Android_Mali_G77_Vulkan, [0000016EDC3BA400][0000016EDCB3D140 49] Android_Mali_G78, [0000016EDC408D00][0000016EDA46F2C0 49] Android_Mali_G78_Vulkan, [0000016EDC3BBD00][0000016EDA153400 49] Android_Mali_G710, [0000016EDC40AB00][0000016EDA47F540 49] Android_Mali_G710_Vulkan, [0000016EDC3BAA00][0000016EDA483680 49] Android_Vulkan_SM5, [0000016EDC409A00][0000016EDA4877C0 49] Android_PowerVR_G6xxx, [0000016EDC3B8500][0000016EDA493940 49] Android_PowerVR_GT7xxx, [0000016EDC408200][0000016EDA4A1AC0 49] Android_PowerVR_GE8xxx, [0000016EDC3BBB00][0000016EDA4A40C0 49] Android_PowerVR_GM9xxx, [0000016EDC40A100][0000016EDA4A8240 49] Android_PowerVR_GM9xxx_Vulkan, [0000016EDC3B9F00][0000016EDA4AC3C0 49] Android_TegraK1, [0000016EDC408A00][0000016EDA4B0540 49] Android_Unknown_Vulkan, [0000016EDC3BB900][0000016EDA4B46C0 49] Lumin, [0000016EDC409100][0000016EDCAD8840 49] Lumin_Desktop, [0000016EDC3BA000][0000016EDCAF09C0 49] HoloLens, 
+[2023.12.14-06.33.15:095][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.12.14-06.33.15:095][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.12.14-06.33.15:095][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.12.14-06.33.15:095][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.12.14-06.33.15:095][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.12.14-06.33.15:120][  0]LogNetVersion: FinalP_Guessing_v2 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2703413181)
+[2023.12.14-06.33.15:622][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.12.14-06.33.15:694][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.12.14-06.33.15:701][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.12.14-06.33.15:701][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.12.14-06.33.15:701][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.12.14-06.33.16:157][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F114D36842798528F80729A6FFC9C30E | Instance: 6B99D157441A9E125794CEBC509669A1 (DESKTOP-3RGIRB9-19668).
+[2023.12.14-06.33.16:304][  0]LogPython: Using Python 3.7.7
+[2023.12.14-06.33.16:956][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.12.14-06.33.16:961][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.12.14-06.33.17:150][  0]SourceControl: Source control is disabled
+[2023.12.14-06.33.17:150][  0]SourceControl: Source control is disabled
+[2023.12.14-06.33.17:154][  0]SourceControl: Source control is disabled
+[2023.12.14-06.33.17:157][  0]SourceControl: Source control is disabled
+[2023.12.14-06.33.17:163][  0]SourceControl: Source control is disabled
+[2023.12.14-06.33.17:175][  0]LogUProjectInfo: Found projects:
+[2023.12.14-06.33.17:435][  0]LogOpenImageDenoise: OIDN starting up
+[2023.12.14-06.33.17:457][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.12.14-06.33.17:481][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.14-06.33.17:481][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.14-06.33.17:633][  0]LogCollectionManager: Loaded 0 collections in 0.002032 seconds
+[2023.12.14-06.33.17:661][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/Collections/' took 0.00s
+[2023.12.14-06.33.17:661][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Developers/Delaina/Collections/' took 0.00s
+[2023.12.14-06.33.17:661][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Collections/' took 0.00s
+[2023.12.14-06.33.17:661][  0]LogOcInput: OculusInput pre-init called
+[2023.12.14-06.33.17:962][  0]LogEngine: Initializing Engine...
+[2023.12.14-06.33.17:964][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.12.14-06.33.17:965][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.12.14-06.33.17:965][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.12.14-06.33.17:966][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.12.14-06.33.18:109][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.12.14-06.33.18:119][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.12.14-06.33.18:137][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.12.14-06.33.18:140][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.12.14-06.33.18:141][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.12.14-06.33.18:141][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.12.14-06.33.18:141][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.12.14-06.33.18:141][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.14-06.33.18:141][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.14-06.33.18:141][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.14-06.33.18:141][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.14-06.33.18:141][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.14-06.33.18:141][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.14-06.33.18:141][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.14-06.33.18:141][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.14-06.33.18:142][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.14-06.33.18:142][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.14-06.33.18:142][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.14-06.33.18:142][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.14-06.33.18:165][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.14-06.33.18:165][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.12.14-06.33.18:195][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.12.14-06.33.18:198][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.14-06.33.18:201][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.14-06.33.18:201][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.14-06.33.18:202][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.14-06.33.18:202][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.14-06.33.18:202][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.14-06.33.18:203][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.14-06.33.18:203][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.14-06.33.18:203][  0]LogInit: FAudioDevice initialized.
+[2023.12.14-06.33.18:203][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.12.14-06.33.18:204][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.12.14-06.33.18:386][  0]LogDerivedDataCache: Saved boot cache 0.18s 99MB C:/Users/Delaina/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.12.14-06.33.18:386][  0]LogInit: Texture streaming: Enabled
+[2023.12.14-06.33.18:400][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.12.14-06.33.18:404][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.12.14-06.33.18:404][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.12.14-06.33.18:406][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.12.14-06.33.18:438][  0]LogInit: Transaction tracking system initialized
+[2023.12.14-06.33.18:461][  0]BlueprintLog: New page: Editor Load
+[2023.12.14-06.33.18:525][  0]LocalizationService: Localization service is disabled
+[2023.12.14-06.33.18:552][  0]TimingProfiler: Initialize
+[2023.12.14-06.33.18:552][  0]TimingProfiler: OnSessionChanged
+[2023.12.14-06.33.18:552][  0]LoadingProfiler: Initialize
+[2023.12.14-06.33.18:552][  0]LoadingProfiler: OnSessionChanged
+[2023.12.14-06.33.18:552][  0]NetworkingProfiler: Initialize
+[2023.12.14-06.33.18:552][  0]NetworkingProfiler: OnSessionChanged
+[2023.12.14-06.33.18:552][  0]MemoryProfiler: Initialize
+[2023.12.14-06.33.18:552][  0]MemoryProfiler: OnSessionChanged
+[2023.12.14-06.33.18:720][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.12.14-06.33.18:720][  0]LogCook: Display: Mobile HDR setting 1
+[2023.12.14-06.33.18:921][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/' took 0.00s
+[2023.12.14-06.33.19:171][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.12.14-06.33.19:174][  0]SourceControl: Source control is disabled
+[2023.12.14-06.33.19:174][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.585
+[2023.12.14-06.33.19:175][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.12.14-06.33.19:175][  0]LightingResults: New page: Lighting Build
+[2023.12.14-06.33.19:176][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.12.14-06.33.19:176][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.14-06.33.19:177][  0]MapCheck: New page: Map Check
+[2023.12.14-06.33.19:177][  0]LightingResults: New page: Lighting Build
+[2023.12.14-06.33.19:185][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.14-06.33.19:187][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.12.14-06.33.19:261][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.12.14-06.33.19:267][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.12.14-06.33.19:268][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.12.14-06.33.19:272][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.14-06.33.19:281][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.14-06.33.19:282][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.14-06.33.19:282][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.206ms to complete.
+[2023.12.14-06.33.19:282][  0]LogFileHelpers: Loading map 'Template_Default' took 0.107
+[2023.12.14-06.33.19:285][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.696
+[2023.12.14-06.33.19:420][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.14-06.33.19:428][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.14-06.33.19:436][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.14-06.33.19:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.14-06.33.19:461][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0111 seconds. Added 3824 classes and 930 folders.
+[2023.12.14-06.33.19:464][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.12.14-06.33.19:465][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.12.14-06.33.19:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.14-06.33.19:465][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:465][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.12.14-06.33.19:465][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.12.14-06.33.19:466][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.12.14-06.33.19:466][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:466][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.12.14-06.33.19:466][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:466][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.12.14-06.33.19:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.12.14-06.33.19:467][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.12.14-06.33.19:467][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:467][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.12.14-06.33.19:467][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:467][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.12.14-06.33.19:467][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.12.14-06.33.19:468][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.14-06.33.19:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.14-06.33.19:468][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:468][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.12.14-06.33.19:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2023.12.14-06.33.19:468][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.12.14-06.33.19:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.12.14-06.33.19:468][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:468][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.12.14-06.33.19:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.12.14-06.33.19:469][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.12.14-06.33.19:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.12.14-06.33.19:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.12.14-06.33.19:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.12.14-06.33.19:470][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.12.14-06.33.19:470][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:470][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.12.14-06.33.19:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.12.14-06.33.19:470][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.12.14-06.33.19:471][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.12.14-06.33.19:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.12.14-06.33.19:471][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:471][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.12.14-06.33.19:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.12.14-06.33.19:471][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.12.14-06.33.19:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.12.14-06.33.19:471][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:471][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.12.14-06.33.19:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.12.14-06.33.19:472][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.12.14-06.33.19:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:472][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.12.14-06.33.19:472][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:472][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.12.14-06.33.19:472][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.12.14-06.33.19:473][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.12.14-06.33.19:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.12.14-06.33.19:473][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:473][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.12.14-06.33.19:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.12.14-06.33.19:473][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.12.14-06.33.19:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:474][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.12.14-06.33.19:474][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:474][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.12.14-06.33.19:474][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.12.14-06.33.19:474][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.14-06.33.19:474][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:474][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.14-06.33.19:474][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:474][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.12.14-06.33.19:474][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.12.14-06.33.19:475][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.12.14-06.33.19:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.12.14-06.33.19:475][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:475][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.12.14-06.33.19:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.12.14-06.33.19:476][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.12.14-06.33.19:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.12.14-06.33.19:476][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:476][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.12.14-06.33.19:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.12.14-06.33.19:476][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.12.14-06.33.19:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.14-06.33.19:476][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:476][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.12.14-06.33.19:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.12.14-06.33.19:477][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.12.14-06.33.19:477][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:477][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.12.14-06.33.19:477][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:477][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.12.14-06.33.19:477][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.12.14-06.33.19:478][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.12.14-06.33.19:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.12.14-06.33.19:478][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:478][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.12.14-06.33.19:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.12.14-06.33.19:478][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.14-06.33.19:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.14-06.33.19:478][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:478][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.12.14-06.33.19:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.12.14-06.33.19:479][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.14-06.33.19:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.14-06.33.19:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.12.14-06.33.19:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.12.14-06.33.19:480][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.12.14-06.33.19:480][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:480][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.14-06.33.19:480][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:480][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.12.14-06.33.19:480][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.12.14-06.33.19:480][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.12.14-06.33.19:481][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:481][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.12.14-06.33.19:481][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:481][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.12.14-06.33.19:481][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.12.14-06.33.19:481][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.12.14-06.33.19:481][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:481][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.12.14-06.33.19:481][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:481][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.12.14-06.33.19:481][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.12.14-06.33.19:482][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.12.14-06.33.19:482][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:482][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.12.14-06.33.19:482][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:482][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.12.14-06.33.19:482][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.12.14-06.33.19:483][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.14-06.33.19:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.14-06.33.19:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.12.14-06.33.19:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.12.14-06.33.19:483][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.12.14-06.33.19:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.14-06.33.19:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.12.14-06.33.19:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.14-06.33.19:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.12.14-06.33.19:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.12.14-06.33.19:540][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.12.14-06.33.19:542][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.12.14-06.33.19:649][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.12.14-06.33.19:650][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.14-06.33.19:651][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.12.14-06.33.19:766][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2023.12.14-06.33.19:813][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.14-06.33.19:863][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.12.14-06.33.19:863][  0]LogLoad: (Engine Initialization) Total time: 10.27 seconds
+[2023.12.14-06.33.19:863][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.12.14-06.33.19:909][  0]LogAssetRegistry: Asset discovery search completed in 5.2493 seconds
+[2023.12.14-06.33.19:915][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.12.14-06.33.19:916][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.12.14-06.33.24:386][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.14-06.33.24:394][507]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.14-06.33.24:622][507]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/NewMap01.NewMap01
+[2023.12.14-06.33.24:622][507]Cmd: MAP LOAD FILE="../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Levels/NewMap01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.12.14-06.33.24:622][507]LightingResults: New page: Lighting Build
+[2023.12.14-06.33.24:622][507]LoadErrors: New page: Loading map: NewMap01.umap
+[2023.12.14-06.33.24:672][507]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.14-06.33.24:672][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.14-06.33.24:673][507]MapCheck: New page: Map Check
+[2023.12.14-06.33.24:673][507]LightingResults: New page: Lighting Build
+[2023.12.14-06.33.24:680][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.14-06.33.24:682][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.12.14-06.33.24:683][507]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap01'.
+[2023.12.14-06.33.24:754][507]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.14-06.33.24:754][507]LogAIModule: Creating AISystem for world NewMap01
+[2023.12.14-06.33.24:764][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.12.14-06.33.24:777][507]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.14-06.33.24:777][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2023.12.14-06.33.24:777][507]LogFileHelpers: Loading map 'NewMap01' took 0.155
+[2023.12.14-06.33.41:566][ 80]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Source/FinalP_Guessing_v1/Target.h'
+[2023.12.14-06.33.41:842][ 80]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Source/FinalP_Guessing_v1/Target.cpp'
+[2023.12.14-06.34.32:566][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.12.14-06.34.32:577][825]LogSavePackage: Moving '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/NewMap01F7AAA93D4436DBC33AE47B8085474DC1.tmp' to '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Levels/NewMap01.umap'
+[2023.12.14-06.34.32:595][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap01_BuiltData" FILE="../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Levels/NewMap01_BuiltData.uasset" SILENT=true
+[2023.12.14-06.34.32:616][825]LogSavePackage: Moving '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/NewMap01_BuiltData2C578C1F4A2EC797412241967CD67107.tmp' to '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Levels/NewMap01_BuiltData.uasset'
+[2023.12.14-06.34.32:674][825]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.14-06.34.32:674][825]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap01_BuiltData.NewMap01_BuiltData
+[2023.12.14-06.34.32:674][825]LogContentValidation: Display: Validating World /Game/Levels/NewMap01.NewMap01
+[2023.12.14-06.34.34:263][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.12.14-06.34.39:649][634]Candidate modules for hot reload:
+[2023.12.14-06.34.39:649][634]  FinalP_Guessing_v1
+[2023.12.14-06.34.39:649][634]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,5047 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.34.39:652][634]Warning: Starting HotReload took  0.1s.
+[2023.12.14-06.34.52:587][132]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:34:52 PM
+[2023.12.14-06.34.52:587][132]CompilerResultsLog: Invalidating makefile for FinalP_Guessing_v1Editor (Target.cpp.obj.response modified)
+[2023.12.14-06.34.52:587][132]CompilerResultsLog: Building FinalP_Guessing_v1Editor...
+[2023.12.14-06.34.52:587][132]CompilerResultsLog: Using Visual Studio 2022 14.38.33133 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.14-06.34.52:587][132]CompilerResultsLog: Building 6 actions with 4 processes...
+[2023.12.14-06.34.52:587][132]CompilerResultsLog:   [1/6] FinalP_Guessing_v1.init.gen.cpp
+[2023.12.14-06.34.52:587][132]CompilerResultsLog:   [2/6] Target.cpp
+[2023.12.14-06.34.52:587][132]CompilerResultsLog:   [3/6] Target.gen.cpp
+[2023.12.14-06.34.52:587][132]CompilerResultsLog:   [4/6] UE4Editor-FinalP_Guessing_v1-5047.lib
+[2023.12.14-06.34.52:587][132]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-5047.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-5047.exp
+[2023.12.14-06.34.52:587][132]CompilerResultsLog:   [5/6] UE4Editor-FinalP_Guessing_v1-5047.dll
+[2023.12.14-06.34.52:587][132]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-5047.suppressed.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-5047.suppressed.exp
+[2023.12.14-06.34.52:587][132]CompilerResultsLog: Error:   Target.gen.cpp.obj : error LNK2019: unresolved external symbol "public: void __cdecl ATarget::PrintProjectileSpeed(void)" (?PrintProjectileSpeed@ATarget@@QEAAXXZ) referenced in function "public: static void __cdecl ATarget::execPrintProjectileSpeed(class UObject *,struct FFrame &,void * const)" (?execPrintProjectileSpeed@ATarget@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+[2023.12.14-06.34.52:587][132]CompilerResultsLog: Error:   C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-5047.dll : fatal error LNK1120: 1 unresolved externals
+[2023.12.14-06.34.52:588][132]LogMainFrame: MainFrame: Module compiling took 12.978 seconds
+[2023.12.14-06.34.52:593][132]Warning: HotReload failed, recompile failed
+[2023.12.14-06.34.56:484][592]LogSlate: Took 0.011583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.12.14-06.35.30:268][518]Candidate modules for hot reload:
+[2023.12.14-06.35.30:268][518]  FinalP_Guessing_v1
+[2023.12.14-06.35.30:268][518]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,6765 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.35.30:272][518]Warning: Starting HotReload took  2.5s.
+[2023.12.14-06.35.31:122][608]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:35:31 PM
+[2023.12.14-06.35.31:122][608]CompilerResultsLog: ERROR: A conflicting instance of UnrealBuildTool is already running.
+[2023.12.14-06.35.31:122][608]LogMainFrame: MainFrame: Module compiling took 0.857 seconds
+[2023.12.14-06.35.31:122][608]Warning: HotReload failed, recompile failed
+[2023.12.14-06.35.51:338][ 23]Candidate modules for hot reload:
+[2023.12.14-06.35.51:338][ 23]  FinalP_Guessing_v1
+[2023.12.14-06.35.51:338][ 23]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,0284 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.35.51:342][ 23]Warning: Starting HotReload took  0.0s.
+[2023.12.14-06.35.57:343][694]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:35:57 PM
+[2023.12.14-06.35.57:343][694]CompilerResultsLog: Building FinalP_Guessing_v1Editor...
+[2023.12.14-06.35.57:343][694]CompilerResultsLog: Using Visual Studio 2022 14.38.33133 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.14-06.35.57:343][694]CompilerResultsLog: Building 6 actions with 4 processes...
+[2023.12.14-06.35.57:344][694]CompilerResultsLog:   [1/6] Target.cpp
+[2023.12.14-06.35.57:344][694]CompilerResultsLog:   [2/6] FinalP_Guessing_v1.init.gen.cpp
+[2023.12.14-06.35.57:344][694]CompilerResultsLog:   [3/6] Target.gen.cpp
+[2023.12.14-06.35.57:344][694]CompilerResultsLog:   [4/6] UE4Editor-FinalP_Guessing_v1-0284.lib
+[2023.12.14-06.35.57:344][694]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0284.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0284.exp
+[2023.12.14-06.35.57:344][694]CompilerResultsLog:   [5/6] UE4Editor-FinalP_Guessing_v1-0284.dll
+[2023.12.14-06.35.57:344][694]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0284.suppressed.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0284.suppressed.exp
+[2023.12.14-06.35.57:344][694]CompilerResultsLog: Error:   Target.gen.cpp.obj : error LNK2019: unresolved external symbol "public: void __cdecl ATarget::SomethingSomething(void)" (?SomethingSomething@ATarget@@QEAAXXZ) referenced in function "public: static void __cdecl ATarget::execSomethingSomething(class UObject *,struct FFrame &,void * const)" (?execSomethingSomething@ATarget@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+[2023.12.14-06.35.57:344][694]CompilerResultsLog: Error:   C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-0284.dll : fatal error LNK1120: 1 unresolved externals
+[2023.12.14-06.35.57:344][694]LogMainFrame: MainFrame: Module compiling took 6.009 seconds
+[2023.12.14-06.35.57:344][694]Warning: HotReload failed, recompile failed
+[2023.12.14-06.39.02:018][494]Candidate modules for hot reload:
+[2023.12.14-06.39.02:018][494]  FinalP_Guessing_v1
+[2023.12.14-06.39.02:018][494]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,1791 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.39.02:021][494]Warning: Starting HotReload took  0.0s.
+[2023.12.14-06.39.12:346][671]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:39:12 PM
+[2023.12.14-06.39.12:346][671]CompilerResultsLog: Building FinalP_Guessing_v1Editor...
+[2023.12.14-06.39.12:346][671]CompilerResultsLog: Using Visual Studio 2022 14.38.33133 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.14-06.39.12:346][671]CompilerResultsLog: Building 6 actions with 4 processes...
+[2023.12.14-06.39.12:346][671]CompilerResultsLog:   [1/6] FinalP_Guessing_v1.init.gen.cpp
+[2023.12.14-06.39.12:346][671]CompilerResultsLog:   [2/6] Target.cpp
+[2023.12.14-06.39.12:346][671]CompilerResultsLog:   [3/6] Target.gen.cpp
+[2023.12.14-06.39.12:346][671]CompilerResultsLog:   [4/6] UE4Editor-FinalP_Guessing_v1-1791.lib
+[2023.12.14-06.39.12:346][671]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-1791.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-1791.exp
+[2023.12.14-06.39.12:346][671]CompilerResultsLog:   [5/6] UE4Editor-FinalP_Guessing_v1-1791.dll
+[2023.12.14-06.39.12:346][671]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-1791.suppressed.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-1791.suppressed.exp
+[2023.12.14-06.39.12:346][671]CompilerResultsLog:   [6/6] FinalP_Guessing_v1Editor.target
+[2023.12.14-06.39.12:346][671]CompilerResultsLog: Total time in Parallel executor: 7.97 seconds
+[2023.12.14-06.39.12:347][671]CompilerResultsLog: Total execution time: 10.22 seconds
+[2023.12.14-06.39.12:347][671]LogMainFrame: MainFrame: Module compiling took 10.333 seconds
+[2023.12.14-06.39.12:768][671]LogClass: Could not find existing class Target in package /Script/FinalP_Guessing_v1 for HotReload, assuming new class
+[2023.12.14-06.39.12:768][671]LogClass: Function ToggleMaterial is new.
+[2023.12.14-06.39.12:772][671]LogHotReload: Re-instancing Target after hot-reload.
+[2023.12.14-06.39.12:999][671]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FinalP_Guessing_v1' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2023.12.14-06.39.13:002][671]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.12.14-06.39.13:424][671]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0111 seconds. Added 3824 classes and 930 folders.
+[2023.12.14-06.39.13:466][671]Display: HotReload took 11.5s.
+[2023.12.14-06.39.30:831][743]Candidate modules for hot reload:
+[2023.12.14-06.39.30:831][743]  FinalP_Guessing_v1
+[2023.12.14-06.39.30:832][743]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,7510 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.39.30:835][743]Warning: Starting HotReload took  0.0s.
+[2023.12.14-06.39.38:022][527]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:39:38 PM
+[2023.12.14-06.39.38:022][527]CompilerResultsLog: Building FinalP_Guessing_v1Editor...
+[2023.12.14-06.39.38:022][527]CompilerResultsLog: Using Visual Studio 2022 14.38.33133 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.14-06.39.38:022][527]CompilerResultsLog: Building 3 actions with 4 processes...
+[2023.12.14-06.39.38:022][527]CompilerResultsLog:   [1/3] UE4Editor-FinalP_Guessing_v1-7510.lib
+[2023.12.14-06.39.38:022][527]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-7510.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-7510.exp
+[2023.12.14-06.39.38:022][527]CompilerResultsLog:   [2/3] UE4Editor-FinalP_Guessing_v1-7510.dll
+[2023.12.14-06.39.38:022][527]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-7510.suppressed.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-7510.suppressed.exp
+[2023.12.14-06.39.38:022][527]CompilerResultsLog:   [3/3] FinalP_Guessing_v1Editor.target
+[2023.12.14-06.39.38:022][527]CompilerResultsLog: Total time in Parallel executor: 4.75 seconds
+[2023.12.14-06.39.38:022][527]CompilerResultsLog: Total execution time: 7.07 seconds
+[2023.12.14-06.39.38:022][527]LogMainFrame: MainFrame: Module compiling took 7.194 seconds
+[2023.12.14-06.39.38:213][527]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FinalP_Guessing_v1' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2023.12.14-06.39.38:215][527]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.12.14-06.39.38:282][527]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0113 seconds. Added 3824 classes and 930 folders.
+[2023.12.14-06.39.38:285][527]Display: HotReload took  7.5s.
+[2023.12.14-06.40.10:626][996]Candidate modules for hot reload:
+[2023.12.14-06.40.10:626][996]  FinalP_Guessing_v1
+[2023.12.14-06.40.10:626][996]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,5939 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.40.10:630][996]Warning: Starting HotReload took  0.0s.
+[2023.12.14-06.40.11:073][  9]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:40:11 PM
+[2023.12.14-06.40.11:073][  9]CompilerResultsLog: ERROR: A conflicting instance of UnrealBuildTool is already running.
+[2023.12.14-06.40.11:074][  9]LogMainFrame: MainFrame: Module compiling took 0.451 seconds
+[2023.12.14-06.40.11:074][  9]Warning: HotReload failed, recompile failed
+[2023.12.14-06.40.20:632][150]Candidate modules for hot reload:
+[2023.12.14-06.40.20:632][150]  FinalP_Guessing_v1
+[2023.12.14-06.40.20:633][150]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,0533 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.40.20:636][150]Warning: Starting HotReload took  0.0s.
+[2023.12.14-06.40.30:617][275]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:40:30 PM
+[2023.12.14-06.40.30:617][275]CompilerResultsLog: Invalidating makefile for FinalP_Guessing_v1Editor (Target.cpp.obj.response modified)
+[2023.12.14-06.40.30:617][275]CompilerResultsLog: Building FinalP_Guessing_v1Editor...
+[2023.12.14-06.40.30:617][275]CompilerResultsLog: Using Visual Studio 2022 14.38.33133 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.14-06.40.30:617][275]CompilerResultsLog: Building 6 actions with 4 processes...
+[2023.12.14-06.40.30:617][275]CompilerResultsLog:   [1/6] Target.cpp
+[2023.12.14-06.40.30:617][275]CompilerResultsLog:   [2/6] FinalP_Guessing_v1.init.gen.cpp
+[2023.12.14-06.40.30:617][275]CompilerResultsLog:   [3/6] Target.gen.cpp
+[2023.12.14-06.40.30:617][275]CompilerResultsLog:   [4/6] UE4Editor-FinalP_Guessing_v1-0533.lib
+[2023.12.14-06.40.30:618][275]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0533.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0533.exp
+[2023.12.14-06.40.30:618][275]CompilerResultsLog:   [5/6] UE4Editor-FinalP_Guessing_v1-0533.dll
+[2023.12.14-06.40.30:618][275]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0533.suppressed.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0533.suppressed.exp
+[2023.12.14-06.40.30:618][275]CompilerResultsLog:   [6/6] FinalP_Guessing_v1Editor.target
+[2023.12.14-06.40.30:618][275]CompilerResultsLog: Total time in Parallel executor: 5.35 seconds
+[2023.12.14-06.40.30:618][275]CompilerResultsLog: Total execution time: 9.88 seconds
+[2023.12.14-06.40.30:618][275]LogMainFrame: MainFrame: Module compiling took 9.990 seconds
+[2023.12.14-06.40.30:670][275]LogClass: Could not find existing class Target in package /Script/FinalP_Guessing_v1 for HotReload, assuming new class
+[2023.12.14-06.40.30:670][275]LogClass: Function ToggleMaterial is new.
+[2023.12.14-06.40.30:674][275]LogHotReload: Re-instancing Target after hot-reload.
+[2023.12.14-06.40.30:687][275]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FinalP_Guessing_v1' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2023.12.14-06.40.30:690][275]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.12.14-06.40.30:749][275]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0114 seconds. Added 3824 classes and 930 folders.
+[2023.12.14-06.40.30:754][275]Display: HotReload took 10.1s.
+[2023.12.14-06.40.37:052][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.14-06.40.37:063][ 10]LogSavePackage: Moving '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/NewMap013BF4F34B4CD29058812EBBA08679BC69.tmp' to '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Levels/NewMap01.umap'
+[2023.12.14-06.40.37:079][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap01_BuiltData" FILE="../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Levels/NewMap01_BuiltData.uasset" SILENT=true
+[2023.12.14-06.40.37:096][ 10]LogSavePackage: Moving '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/NewMap01_BuiltData7443FA684C7BD4370CEB16AF3B214519.tmp' to '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Levels/NewMap01_BuiltData.uasset'
+[2023.12.14-06.40.37:165][ 10]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.14-06.40.37:165][ 10]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap01_BuiltData.NewMap01_BuiltData
+[2023.12.14-06.40.37:165][ 10]LogContentValidation: Display: Validating World /Game/Levels/NewMap01.NewMap01
+[2023.12.14-06.40.38:632][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.12.14-06.41.03:182][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.12.14-06.41.03:192][617]LogSavePackage: Moving '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/NewMap01CD5BBB2745A1CC455683CBB18F04BDFD.tmp' to '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Levels/NewMap01.umap'
+[2023.12.14-06.41.03:200][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap01_BuiltData" FILE="../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Levels/NewMap01_BuiltData.uasset" SILENT=true
+[2023.12.14-06.41.03:217][617]LogSavePackage: Moving '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Saved/NewMap01_BuiltData5943389241411B55ED7C76AE6BDC7FBA.tmp' to '../../../../../../Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/Content/Levels/NewMap01_BuiltData.uasset'
+[2023.12.14-06.41.03:540][617]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.14-06.41.03:540][617]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap01_BuiltData.NewMap01_BuiltData
+[2023.12.14-06.41.03:540][617]LogContentValidation: Display: Validating World /Game/Levels/NewMap01.NewMap01
+[2023.12.14-06.41.04:332][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.14-06.41.05:099][781]Candidate modules for hot reload:
+[2023.12.14-06.41.05:099][781]  FinalP_Guessing_v1
+[2023.12.14-06.41.05:099][781]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,0809 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.41.05:103][781]Warning: Starting HotReload took  0.0s.
+[2023.12.14-06.41.05:606][796]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:41:05 PM
+[2023.12.14-06.41.05:606][796]CompilerResultsLog: ERROR: A conflicting instance of UnrealBuildTool is already running.
+[2023.12.14-06.41.05:606][796]LogMainFrame: MainFrame: Module compiling took 0.511 seconds
+[2023.12.14-06.41.05:607][796]Warning: HotReload failed, recompile failed
+[2023.12.14-06.41.15:444][961]Candidate modules for hot reload:
+[2023.12.14-06.41.15:444][961]  FinalP_Guessing_v1
+[2023.12.14-06.41.15:444][961]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,6944 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.41.15:447][961]Warning: Starting HotReload took  0.0s.
+[2023.12.14-06.41.20:772][547]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:41:20 PM
+[2023.12.14-06.41.20:772][547]CompilerResultsLog: Building FinalP_Guessing_v1Editor...
+[2023.12.14-06.41.20:772][547]CompilerResultsLog: Using Visual Studio 2022 14.38.33133 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.14-06.41.20:772][547]CompilerResultsLog: Building 6 actions with 4 processes...
+[2023.12.14-06.41.20:772][547]CompilerResultsLog:   [1/6] Target.cpp
+[2023.12.14-06.41.20:772][547]CompilerResultsLog:   [2/6] FinalP_Guessing_v1.init.gen.cpp
+[2023.12.14-06.41.20:772][547]CompilerResultsLog:   [3/6] Target.gen.cpp
+[2023.12.14-06.41.20:772][547]CompilerResultsLog:   [4/6] UE4Editor-FinalP_Guessing_v1-6944.lib
+[2023.12.14-06.41.20:772][547]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-6944.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-6944.exp
+[2023.12.14-06.41.20:772][547]CompilerResultsLog:   [5/6] UE4Editor-FinalP_Guessing_v1-6944.dll
+[2023.12.14-06.41.20:772][547]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-6944.suppressed.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-6944.suppressed.exp
+[2023.12.14-06.41.20:772][547]CompilerResultsLog:   [6/6] FinalP_Guessing_v1Editor.target
+[2023.12.14-06.41.20:772][547]CompilerResultsLog: Total time in Parallel executor: 3.49 seconds
+[2023.12.14-06.41.20:772][547]CompilerResultsLog: Total execution time: 5.21 seconds
+[2023.12.14-06.41.20:772][547]LogMainFrame: MainFrame: Module compiling took 5.332 seconds
+[2023.12.14-06.41.20:940][547]LogClass: Could not find existing class Target in package /Script/FinalP_Guessing_v1 for HotReload, assuming new class
+[2023.12.14-06.41.20:940][547]LogClass: Function ToggleMaterial is new.
+[2023.12.14-06.41.20:943][547]LogHotReload: Re-instancing Target after hot-reload.
+[2023.12.14-06.41.20:957][547]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FinalP_Guessing_v1' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2023.12.14-06.41.20:959][547]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.12.14-06.41.21:021][547]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0116 seconds. Added 3824 classes and 930 folders.
+[2023.12.14-06.41.21:025][547]Display: HotReload took  5.6s.
+[2023.12.14-06.42.25:028][596]Candidate modules for hot reload:
+[2023.12.14-06.42.25:028][596]  FinalP_Guessing_v1
+[2023.12.14-06.42.25:028][596]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,1565 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.42.25:031][596]Warning: Starting HotReload took  0.0s.
+[2023.12.14-06.42.25:650][623]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:42:25 PM
+[2023.12.14-06.42.25:650][623]CompilerResultsLog: ERROR: A conflicting instance of UnrealBuildTool is already running.
+[2023.12.14-06.42.25:650][623]LogMainFrame: MainFrame: Module compiling took 0.625 seconds
+[2023.12.14-06.42.25:650][623]Warning: HotReload failed, recompile failed
+[2023.12.14-06.42.39:856][307]Candidate modules for hot reload:
+[2023.12.14-06.42.39:856][307]  FinalP_Guessing_v1
+[2023.12.14-06.42.39:856][307]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,0183 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.42.39:859][307]Warning: Starting HotReload took  0.0s.
+[2023.12.14-06.42.48:324][266]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:42:48 PM
+[2023.12.14-06.42.48:324][266]CompilerResultsLog: Invalidating makefile for FinalP_Guessing_v1Editor (Target.cpp.obj.response modified)
+[2023.12.14-06.42.48:324][266]CompilerResultsLog: Building FinalP_Guessing_v1Editor...
+[2023.12.14-06.42.48:324][266]CompilerResultsLog: Using Visual Studio 2022 14.38.33133 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.14-06.42.48:324][266]CompilerResultsLog: Building 6 actions with 4 processes...
+[2023.12.14-06.42.48:324][266]CompilerResultsLog:   [1/6] Target.cpp
+[2023.12.14-06.42.48:324][266]CompilerResultsLog:    C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Source\FinalP_Guessing_v1\Target.cpp(29) : error C2660: 'UMeshComponent::SetMaterial': function does not take 1 arguments
+[2023.12.14-06.42.48:324][266]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/MeshComponent.h(66): note: see declaration of 'UMeshComponent::SetMaterial'
+[2023.12.14-06.42.48:324][266]CompilerResultsLog:   C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Source\FinalP_Guessing_v1\Target.cpp(29): note: while trying to match the argument list '(UMaterialInstanceDynamic *)'
+[2023.12.14-06.42.48:324][266]CompilerResultsLog:   [2/6] FinalP_Guessing_v1.init.gen.cpp
+[2023.12.14-06.42.48:324][266]CompilerResultsLog:   [3/6] Target.gen.cpp
+[2023.12.14-06.42.48:324][266]LogMainFrame: MainFrame: Module compiling took 8.472 seconds
+[2023.12.14-06.42.48:324][266]Warning: HotReload failed, recompile failed
+[2023.12.14-06.43.58:619][ 47]Candidate modules for hot reload:
+[2023.12.14-06.43.58:619][ 47]  FinalP_Guessing_v1
+[2023.12.14-06.43.58:619][ 47]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalP_Guessing_v1,0093 FinalP_Guessing_v1Editor Win64 Development -Project="C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject" "C:/Users/Delaina/Documents/Unreal Projects/FinalP_Guessing_v2/FinalP_Guessing_v2.uproject"  -IgnoreJunk]
+[2023.12.14-06.43.58:623][ 47]Warning: Starting HotReload took  0.0s.
+[2023.12.14-06.44.09:586][269]CompilerResultsLog: New page: Compilation - Dec 13, 2023, 6:44:09 PM
+[2023.12.14-06.44.09:586][269]CompilerResultsLog: Invalidating makefile for FinalP_Guessing_v1Editor (Target.cpp.obj.response modified)
+[2023.12.14-06.44.09:586][269]CompilerResultsLog: Building FinalP_Guessing_v1Editor...
+[2023.12.14-06.44.09:586][269]CompilerResultsLog: Using Visual Studio 2022 14.38.33133 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.14-06.44.09:586][269]CompilerResultsLog: Building 4 actions with 4 processes...
+[2023.12.14-06.44.09:586][269]CompilerResultsLog:   [1/4] Target.cpp
+[2023.12.14-06.44.09:586][269]CompilerResultsLog:   [2/4] UE4Editor-FinalP_Guessing_v1-0093.lib
+[2023.12.14-06.44.09:586][269]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0093.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0093.exp
+[2023.12.14-06.44.09:586][269]CompilerResultsLog:   [3/4] UE4Editor-FinalP_Guessing_v1-0093.dll
+[2023.12.14-06.44.09:586][269]CompilerResultsLog:      Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0093.suppressed.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0093.suppressed.exp
+[2023.12.14-06.44.09:586][269]CompilerResultsLog:   [4/4] FinalP_Guessing_v1Editor.target
+[2023.12.14-06.44.09:586][269]CompilerResultsLog: Total time in Parallel executor: 5.39 seconds
+[2023.12.14-06.44.09:586][269]CompilerResultsLog: Total execution time: 10.85 seconds
+[2023.12.14-06.44.09:586][269]LogMainFrame: MainFrame: Module compiling took 10.971 seconds
+[2023.12.14-06.44.09:838][269]LogClass: Could not find existing class Target in package /Script/FinalP_Guessing_v1 for HotReload, assuming new class
+[2023.12.14-06.44.09:838][269]LogClass: Function ToggleMaterial is new.
+[2023.12.14-06.44.09:852][269]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.12.14-06.44.09:852][269]LogWindows: Windows GetLastError: The operation completed successfully. (0)
