@@ -1,0 +1,7 @@
+C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\Definitions.FinalP_Guessing_v1.h
+C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Source\FinalP_Guessing_v1\FinalP_Guessing_v1GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Inc\FinalP_Guessing_v1\FinalP_Guessing_v1GameModeBase.generated.h
