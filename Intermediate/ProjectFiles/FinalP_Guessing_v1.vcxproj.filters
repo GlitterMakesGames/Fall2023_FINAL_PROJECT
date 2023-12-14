@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FinalP_Guessing_v1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0F4719A8-6F8F-4F03-AA39-3768BF523F35}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FinalP_Guessing_v1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FinalP_Guessing_v1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5D765DCF-B887-421F-AF99-BEB7FD2E5798}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FinalP_Guessing_v1">
+      <UniqueIdentifier>{C3220634-E9E9-418D-B2B5-26BBC1FA67EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FinalP_Guessing_v1\FinalP_Guessing_v1.Build.cs">
+      <Filter>Source\FinalP_Guessing_v1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FinalP_Guessing_v1\FinalP_Guessing_v1.cpp">
+      <Filter>Source\FinalP_Guessing_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalP_Guessing_v1\FinalP_Guessing_v1.h">
+      <Filter>Source\FinalP_Guessing_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalP_Guessing_v1\FinalP_Guessing_v1GameModeBase.cpp">
+      <Filter>Source\FinalP_Guessing_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalP_Guessing_v1\FinalP_Guessing_v1GameModeBase.h">
+      <Filter>Source\FinalP_Guessing_v1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
