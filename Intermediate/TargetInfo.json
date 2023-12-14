@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FinalP_Guessing_v1",
+			"Path": "C:\\Users\\Delaina\\Documents\\Unreal Projects\\FinalP_Guessing_v2\\Source\\FinalP_Guessing_v1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FinalP_Guessing_v1Editor",
+			"Path": "C:\\Users\\Delaina\\Documents\\Unreal Projects\\FinalP_Guessing_v2\\Source\\FinalP_Guessing_v1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

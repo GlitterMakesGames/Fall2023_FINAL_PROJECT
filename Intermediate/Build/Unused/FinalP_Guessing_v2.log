@@ -1,0 +1,50 @@
+﻿  Invalidating makefile for FinalP_Guessing_v1Editor (Target.cpp.obj.response modified)
+  Parsing headers for FinalP_Guessing_v1Editor
+    Running UnrealHeaderTool "C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\FinalP_Guessing_v2.uproject" "C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\FinalP_Guessing_v1Editor\Development\FinalP_Guessing_v1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Delaina\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for FinalP_Guessing_v1Editor in 4.9893665 seconds
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-0093.dll
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-0093.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-0284.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-0533.dll
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-0533.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-1791.dll
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-1791.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-3947.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-4609.dll
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-4609.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-5047.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-6944.dll
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-6944.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-7510.dll
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-7510.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-8146.dll
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-8146.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-8426.dll
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-8426.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-8949.dll
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Binaries\Win64\UE4Editor-FinalP_Guessing_v1-8949.pdb
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0093.lib
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0284.lib
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-0533.lib
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-1791.lib
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-3947.lib
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-4609.lib
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-5047.lib
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-6944.lib
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-7510.lib
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-8146.lib
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-8426.lib
+  Deleted hot-reload file: C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1-8949.lib
+  Building FinalP_Guessing_v1Editor...
+  Using Visual Studio 2022 14.38.33133 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 4 processes...
+    [1/5] Target.cpp
+    [2/5] Target.gen.cpp
+    [3/5] UE4Editor-FinalP_Guessing_v1.lib
+       Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1.exp
+    [4/5] UE4Editor-FinalP_Guessing_v1.dll
+       Creating library C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1.suppressed.lib and object C:\Users\Delaina\Documents\Unreal Projects\FinalP_Guessing_v2\Intermediate\Build\Win64\UE4Editor\Development\FinalP_Guessing_v1\UE4Editor-FinalP_Guessing_v1.suppressed.exp
+    [5/5] FinalP_Guessing_v1Editor.target
+  Total time in Parallel executor: 4.05 seconds
+  Total execution time: 12.34 seconds
